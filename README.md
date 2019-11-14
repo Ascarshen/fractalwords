@@ -21,7 +21,7 @@
 ![WechatIMG2.jpeg](https://i.loli.net/2019/11/15/QBOKs9FuqWP1JgM.jpg)
 - To be honset , I don't intend to submit this code. In my opinion, it still has a lot of deficiencies, and there are many things that I don't understand behind the code itself, but I believe that I will continue to figure it out in the future.
 ---
-**Hope this competion even the course Inf1A could potentially pioneer a critical thinking approach to academics, instead of signifing the ulimate of that.**
+**Hope this competition even the course Inf1A could potentially pioneer a critical thinking approach to my academic life, instead of signifying the ultimate of that.**
 
 ---
 ![MUsuwj.png](https://s2.ax1x.com/2019/11/15/MUsuwj.png)
