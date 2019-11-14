@@ -1,0 +1,68 @@
+name:                graphgrow3
+version:             3
+synopsis:            graph-directed iterated function system fractals
+description:
+  graphgrow3 for graph-directed iterated function system fractals.
+  .
+  GraphGrow3 has a graphical node editor, visualization with
+  OpenGL and sonification via messages to Pure-data.
+  .
+  > pd graphgrow3.pd &
+  > graphgrow3 | pdsend 6060
+
+homepage:            https://mathr.co.uk/blog/graphgrow.html
+license:             GPL-3
+license-file:        LICENSE
+author:              Claude Heiland-Allen
+maintainer:          claude@mathr.co.uk
+category:            Graphics
+build-type:          Simple
+cabal-version:       >=1.8
+extra-doc-files:     README.md
+data-files:
+  initial.vert
+  initial.frag
+  colour.vert
+  colour.frag
+  step.vert
+  step.frag
+  graphgrow3.pd
+  rule~.pd
+  edge~.pd
+  compress~.pd
+  pitchshift~.pd
+
+executable graphgrow3
+  main-is:  Main.hs
+  other-modules:
+    Types
+    Audio
+    Video
+    Dimension
+  build-depends:
+    base >= 4.9 && < 4.10,
+    array >= 0.5 && < 0.6,
+    colour >= 2.3 && < 2.4,
+    containers >= 0.5.8 && < 0.6,
+    fgl >= 5.5 && < 5.6,
+    glib >= 0.13 && < 0.14,
+    gtk >= 0.14 && < 0.15,
+    gtkglext >= 0.13 && < 0.14,
+    lens >= 4.15 && < 4.16,
+    linear >= 1.20 && < 1.21,
+    mtl >= 2.2 && < 2.3,
+    OpenGLRaw >= 3.2 && < 3.3,
+    process >= 1.4.2 && < 1.5,
+    toy-gtk-diagrams >= 0.4 && < 0.5
+  ghc-options: -Wall -threaded
+
+Source-repository head
+  type:                git
+  location:            https://code.mathr.co.uk/graphgrow.git
+  subdir:              graphgrow3
+
+Source-repository this
+  type:                git
+  location:            https://code.mathr.co.uk/graphgrow.git
+  subdir:              graphgrow3
+  tag:                 v3
