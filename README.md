@@ -12,13 +12,13 @@
 ![MUsQkn.jpg](https://s2.ax1x.com/2019/11/15/MUsQkn.jpg)
 
 - Thanks to my friend Litu Ou and others, whenever I walk with you side by side I see a group of young people full of enthusiasm and vitality, which encourage me a lot.
-[![MUs1f0.png](https://s2.ax1x.com/2019/11/15/MUs1f0.png)](https://imgchr.com/i/MUs1f0)
+![WX20191114-211111@2x.png](https://i.loli.net/2019/11/15/ji8CswPxvLqDhRM.png)
 
 
 - Special thanks to mathr.co.uk which gives me the idea for fractal words, provided basic engine for graphgrow and vedio producing as well. 
 ![WX20191114-211239@2x.png](https://i.loli.net/2019/11/15/cn3TQuRktFhPv2K.png)
 - Finally, I must show my gratitude to my beloved girl Lexuan, thanks for her love, waiting and care. I owe her everthing.
-[![MUslYq.jpg](https://s2.ax1x.com/2019/11/15/MUslYq.jpg)](https://imgchr.com/i/MUslYq)
+![WechatIMG2.jpeg](https://i.loli.net/2019/11/15/QBOKs9FuqWP1JgM.jpg)
 - To be honset , I don't intend to submit this code. In my opinion, it still has a lot of deficiencies, and there are many things that I don't understand behind the code itself, but I believe that I will continue to figure it out in the future.
 ---
 **Hope this competion even the course Inf1A could potentially pioneer a critical thinking approach to academics, instead of signifing the ulimate of that.**
