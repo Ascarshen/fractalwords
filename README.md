@@ -11,7 +11,7 @@
 
 ![MUsQkn.jpg](https://s2.ax1x.com/2019/11/15/MUsQkn.jpg)
 
-- Thanks to my friend Litu Ou and others, whenever I walked with you side by side I saw a group of young people full of enthusiasm and vitality, which encourage me a lot.
+- Thanks to my friend Litu Ou and others, whenever I walk with you side by side I see a group of young people full of enthusiasm and vitality, which encourage me a lot.
 [![MUs1f0.png](https://s2.ax1x.com/2019/11/15/MUs1f0.png)](https://imgchr.com/i/MUs1f0)
 
 
